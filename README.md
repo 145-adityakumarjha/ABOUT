@@ -1,5 +1,5 @@
 # 💫 About Me:
-A tier 3 college student.<br>Passionate to learn tech.<br>I had made a Basic TO-DO LIST APP.<br>Currently learning DSA and WEB DEVELOPMENT.
+A tier 3 college student.<br>Passionate to learn tech.<br>I made a Basic TO-DO LIST APP, PORTFOLIO WEBSITE, TIC TAC TOE GAME.<br>Currently learning DSA and WEB DEVELOPMENT.
 
 
 ## 🌐 Socials:
